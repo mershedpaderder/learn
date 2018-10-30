@@ -1,0 +1,35 @@
+body {
+background-image: url("../images/snsw_back.png");
+background-size: cover;
+
+}
+
+form,h1 {
+font-family: Arial;
+color: #002664;
+
+}
+
+input {
+width: 30%;
+padding: 6px 0;
+margin: 5px 0;
+border: 1px solid #002664;
+border-radius: 3px;
+border-sizing: border-box;
+}
+
+input [type=text]{
+
+}
+
+input[type=button], input[type=submit] {
+    background-color: #d90030;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+	font-size: 20px;
+
+    cursor: pointer;
+}
